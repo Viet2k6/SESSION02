@@ -7,7 +7,7 @@ int main(){
   float height;
   //Kieu du lieu so thuc
 	
-  double Pi;
+  double pi;
   //Kieu du lieu so thuc nhung do chinh xac cao hon
 	
   char k;
