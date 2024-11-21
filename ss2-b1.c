@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 int main(){
-  int name;
+  int age;
   //Kieu du lieu so nguyen
 	
   float height;
   //Kieu du lieu so thuc
 	
-  double pi;
+  double Pi;
   //Kieu du lieu so thuc nhung do chinh xac cao hon
 	
   char k;
